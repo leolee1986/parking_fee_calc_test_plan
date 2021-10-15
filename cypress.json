@@ -1,0 +1,7 @@
+{
+    "ignoreTestFiles" : "**/2-advanced-examples/*",
+    "baseUrl": "http://www.shino.de/",
+    "viewportWidth": 800,
+    "viewportHeight": 600
+
+}

@@ -1,0 +1,14 @@
+{
+  "name": "parking_fee_calc_test_plan",
+  "version": "1.0.0",
+  "description": "Parking fee calc test plan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leo Li",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.6.0"
+  }
+}
